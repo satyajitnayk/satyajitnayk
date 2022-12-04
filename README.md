@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![BlogPost](https://img.shields.io/badge/BlogPost-12100E?logo=leetcode&logoColor=white)](https://satyajitnayk.blogspot.com/) 
 [![Leetcode](https://img.shields.io/badge/Leetcode-12100E?logo=leetcode&logoColor=white)](https://leetcode.com/satyajitnayk/) 
 [![GFG](https://img.shields.io/badge/GFG-12100E?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/satyajitnayk/practice/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyajitnayk) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@satyajitnayk) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20283532) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/satyajitnayk) 
