@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Node Js, Typescript & Javascript<br>🌱 I’m currently learning Backend Development using Java<br>👯‍♀️ I'm looking to collaborate on NodeJs, Go Backend projects to boost my learning
+🔭 I’m currently working on Node Js, Typescript & Javascript<br>🌱 I’m currently learning Backend Development using Python(Django)<br>👯‍♀️ I'm looking to collaborate on NodeJs, Go Backend projects to boost my learning
 
 
 ## 🌐 Socials:
