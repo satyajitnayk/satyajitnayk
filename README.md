@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on NestJS, NodeJS, Typescript & Javascript<br>🌱 I’m currently learning Backend Development using Python(Django)<br>👯‍♀️ I'm looking to collaborate on NodeJs, Go Backend projects to boost my learning
 
+`I am a strong beliver of paralle execution.`
+<img width="759" alt="Screenshot 2023-05-17 at 3 12 32 PM" src="https://github.com/satyajitnayk/satyajitnayk/assets/32722867/b54d0e3a-3ab4-4adb-96fc-d4b93d54b2d6">
+
+
 
 ## 🌐 Socials:
 [![BlogPost](https://img.shields.io/badge/BlogPost-12100E?logo=leetcode&logoColor=white)](https://satyajitnayk.blogspot.com/) 
