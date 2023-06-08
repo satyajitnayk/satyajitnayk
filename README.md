@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NestJS, NodeJS, Typescript & Javascript<br>👯‍♀️ I'm looking to collaborate on NodeJs, Go Backend projects to boost my learning
-
+🔭 I’m currently working on NestJS, NodeJS, Typescript & Javascript<br>👯‍♀️ I'm looking to collaborate on NodeJs, Go Backend projects
 `I am a strong beliver of paralle execution.`
 ![power_of_parallel_executio](https://github.com/satyajitnayk/satyajitnayk/assets/32722867/ade5e63d-a58c-4846-9f8c-466e0200024c)
 
