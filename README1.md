@@ -1,9 +1,34 @@
-# 💫 About Me:
-🔭 I’m currently working on NestJS, NodeJS, Typescript & Javascript<br>👯‍♀️ I'm looking to collaborate on NodeJs, Go Backend projects
-`I am a strong beliver of paralle execution.`
-![power_of_parallel_executio](https://github.com/satyajitnayk/satyajitnayk/assets/32722867/ade5e63d-a58c-4846-9f8c-466e0200024c)
+# Hi there, I'm Satyajit Nayak 👋
 
+I’m a **Backend Software Engineer** with **4 years of experience**, Currently, I work at **Docupilot**, where I specialize in **serverless applications** using **Node.js**, **TypeScript**, and **AWS Lambda services**. My role involves designing robust APIs, optimizing performance, and integrating third-party systems to enhance functionality.
 
+I work with Go for high-performance backends, SQL/NoSQL databases, and deploy on AWS (Lambda, S3, DynamoDB, API Gateway, SQS). I also focus on microservices, scalable design patterns, and Docker for containerization.
+
+> The best players in any field rise to the top when their peers take a bet on them and invest in their growth. In software engineering, companies like **WhatsApp**, **Slack**, and **Stripe** became successful because experienced leaders nurtured and believed in the potential of emerging talent, benefiting both individuals and the organization as a whole. This culture of support drives innovation and success. **If given the opportunity to work alongside such experts, I would embrace the chance to learn, contribute, and grow together, striving for collective excellence and impactful results.**
+
+## 🎯 **What I'm Working Towards**
+
+While **Node.js** remains my primary tool at work, **Go** is where my passion currently lies. I’m fascinated by its **concurrency model**, **performance optimizations**, and how well it scales for backend systems. Over the past few months, I’ve worked on several **Go projects** to get hands-on experience.  
+
+Although **Go** is my focus right now, I want to emphasize that **language is not a barrier** for me. I’m always excited to explore new technologies and frameworks. The reason I’m diving deep into **Go** is because of its outstanding features that align well with my current projects and aspirations, particularly in high-performance systems and distributed architectures.
+
+In the future, I’m aiming to grow within **distributed systems**, **high-performance backend engineering**, and **high-frequency trading (HFT)**. I’m looking for opportunities where I can collaborate with experts and continue to contribute, grow, and tackle complex technical challenges.
+
+---
+
+## 🚀 **Choosing a Company to Grow**
+
+As I continue my journey, I am looking for companies that foster **growth**, **innovation**, and **excellence**. Here’s a framework I use to evaluate potential opportunities:
+
+| **Aspect**               | **Criteria**                                                                                  |
+|---------------------------|-----------------------------------------------------------------------------------------------|
+| **Team Quality**          | Are the team members smart, high-performing, and inspiring?                                   |  
+| **Growth Opportunities**  | Does the role offer ownership, learning, and problem-solving challenges?                      |  
+| **Company Momentum**      | Is the company growing, profitable, or solving impactful problems?                           |   
+| **Tenure Potential**      | Are there long-term opportunities to master tough challenges?                                |    
+| **Standards & Culture**   | Are high standards and a culture of excellence evident?                                      |  
+| **Mission Impact**        | Is the company focused on meaningful, high-impact work over superficial perks?               |   
+| **Urgency & Iteration**   | Does the company prioritize rapid iteration and high urgency in its work processes?          |   
 
 
 ## 🌐 Socials:
@@ -31,3 +56,12 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=satyajitnayk&icon=0&color=1)](https://visitcount.itsvg.in)
+
+## 💬 **Let’s Connect!**
+
+Feel free to reach out if you have similar interests or exciting opportunities in **Go**, **serverless systems**, or **distributed architectures**. I’m always open to new collaborations and learning from experts in the field!
+
+---
+
+Thanks for visiting my GitHub. 🚀
+
