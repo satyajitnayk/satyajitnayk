@@ -4,7 +4,7 @@
 
 After several years working with **TypeScript**, **Node.js**, and **AWS**, I'm now focused on building **high-performance systems** and **cloud-native infrastructure**. I'm especially excited about:
 
-- Systems programming with **Rust**
+- Systems programming with **Go** and **Rust**
 - Scalable backend architecture and distributed systems
 - Building infrastructure tools, orchestrators, and internal platforms
 - Solving performance, reliability, and scale challenges
